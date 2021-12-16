@@ -1,0 +1,36 @@
+{
+	"name": "gameover",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-any-key-pressed",
+					"objectClass": "Keyboard",
+					"sid": 526755417057355
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 781886952483781,
+					"parameters": {
+						"layout": "mainlevel"
+					}
+				},
+				{
+					"id": "set-eventvar-value",
+					"objectClass": "System",
+					"sid": 657835844603066,
+					"parameters": {
+						"variable": "lives",
+						"value": "2"
+					}
+				}
+			],
+			"sid": 204356944650747
+		}
+	],
+	"sid": 898086186703316
+}

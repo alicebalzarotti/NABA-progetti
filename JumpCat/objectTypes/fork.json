@@ -1,0 +1,55 @@
+{
+	"name": "fork",
+	"plugin-id": "Sprite",
+	"sid": 237023182211237,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 272,
+						"height": 259,
+						"originX": 0.5073529411764706,
+						"originY": 0.9961389961389961,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8215460,
+						"collisionPoly": {
+							"points": [
+								0,
+								0,
+								0.7904411764705882,
+								0,
+								1,
+								0,
+								0.9666558739973259,
+								0.36910977535977535,
+								0.9278127088903737,
+								0.662463803088803,
+								0.09276690967580214,
+								0.6509712837837833,
+								0.03316134692513363,
+								0.3707825114075119
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 368330273488038,
+				"name": "idol",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

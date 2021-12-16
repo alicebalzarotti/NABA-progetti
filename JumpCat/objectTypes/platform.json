@@ -1,0 +1,31 @@
+{
+	"name": "platform",
+	"plugin-id": "TiledBg",
+	"sid": 543163677127639,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "jumpthru",
+			"name": "Jumpthru",
+			"sid": 350212525728305
+		},
+		{
+			"behaviorId": "Physics",
+			"name": "Physics",
+			"sid": 538871133863483
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 600,
+		"height": 407,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "png",
+		"exportQuality": 0.8,
+		"imageSpriteId": 7235233,
+		"useCollisionPoly": true
+	}
+}

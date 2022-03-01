@@ -1,0 +1,64 @@
+{
+	"name": "woodenshelf",
+	"plugin-id": "Sprite",
+	"sid": 215190370632634,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Physics",
+			"name": "Physics",
+			"sid": 601982858570142
+		},
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 160973054435480
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 421,
+						"height": 340,
+						"originX": 0.48693586698337293,
+						"originY": 0.9852941176470589,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8403540,
+						"collisionPoly": {
+							"points": [
+								0,
+								0,
+								1,
+								0,
+								0.9734921715932604,
+								0.5047081239115864,
+								0.9632542039684431,
+								0.9936082288135717,
+								0.05599814598149313,
+								1,
+								0.04546384129190534,
+								0.4901490895425
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 690987324141082,
+				"name": "idol",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

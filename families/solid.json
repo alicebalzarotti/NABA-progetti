@@ -1,0 +1,13 @@
+{
+	"name": "solid",
+	"plugin-id": "Sprite",
+	"sid": 700015896110442,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"members": [
+		"box",
+		"pot",
+		"invisibleWall"
+	]
+}

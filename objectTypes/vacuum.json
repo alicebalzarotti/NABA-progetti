@@ -1,0 +1,64 @@
+{
+	"name": "vacuum",
+	"plugin-id": "Sprite",
+	"sid": 490690632934328,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 680971038056444
+		},
+		{
+			"behaviorId": "LOS",
+			"name": "LineOfSight",
+			"sid": 385044191031201
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 602,
+						"height": 484,
+						"originX": 0.22591362126245848,
+						"originY": 0.890495867768595,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4090181,
+						"collisionPoly": {
+							"points": [
+								0.13289028940802794,
+								0.11983467921737796,
+								0.6594684131913803,
+								0.010330578512396695,
+								0.7823921279653758,
+								0.3078512081429979,
+								0.8654486317175171,
+								0.8780994415283196,
+								0,
+								0.8884296890132688,
+								0.004983338010667569,
+								0.2376033057851239
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 371998894243343,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

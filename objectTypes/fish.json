@@ -1,0 +1,86 @@
+{
+	"name": "fish",
+	"plugin-id": "Sprite",
+	"sid": 615589589632060,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "Direzione",
+			"type": "string",
+			"desc": "",
+			"sid": 934367515279024
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 263853443591299
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 250,
+						"height": 227,
+						"originX": 0.472,
+						"originY": 1,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 189503,
+						"collisionPoly": {
+							"points": [
+								0,
+								0.004405286343612335,
+								0.996,
+								0.004405286343612335,
+								0.996,
+								1,
+								0,
+								1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 8
+					},
+					{
+						"width": 250,
+						"height": 227,
+						"originX": 0.472,
+						"originY": 1,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2996227,
+						"collisionPoly": {
+							"points": [
+								0,
+								0.004405286343612335,
+								0.996,
+								0.004405286343612335,
+								0.996,
+								1,
+								0,
+								1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 796486398671098,
+				"name": "idol",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

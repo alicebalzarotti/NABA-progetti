@@ -1,0 +1,55 @@
+{
+	"name": "pot",
+	"plugin-id": "Sprite",
+	"sid": 476229285473077,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 305698979666402
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 102,
+						"height": 187,
+						"originX": 0.47058823529411764,
+						"originY": 0.983957219251337,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 7114403,
+						"collisionPoly": {
+							"points": [
+								0.319259344362745,
+								0,
+								0.6383655024509802,
+								0,
+								1,
+								1,
+								0.0022212009803921568,
+								0.9993837733957219
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 636380640305112,
+				"name": "idol",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
